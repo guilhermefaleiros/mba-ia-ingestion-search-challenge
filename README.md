@@ -1,6 +1,4 @@
-# Ingestão e Busca Semântica com LangChain e PostgreSQL
-
-Sistema RAG (Retrieval-Augmented Generation) que permite fazer ingestão de documentos PDF e realizar consultas semânticas usando LangChain, OpenAI e PostgreSQL com pgVector.
+# Desafio MBA Engenharia de Software com IA - Full Cycle
 
 ## Como executar
 
